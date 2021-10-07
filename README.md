@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-Welcome to my Udacity Machine Learning Engineer Nanodegree Capstone Project! This is a Convolutional Neural Network (CNN) project that, given an image of a dog, the algorithm identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+Welcome to my Udacity Machine Learning Engineer Nanodegree Capstone Project! This is a PyTorch Convolutional Neural Network (CNN) project that, given an image of a dog, the algorithm identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 ### Datasets
 
