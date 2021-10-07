@@ -1,4 +1,4 @@
-# Dog Breed Classification
+# Dog Breed Classification with PyTorch
 
 ### Project Overview
 
