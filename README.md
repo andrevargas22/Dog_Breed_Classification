@@ -23,6 +23,7 @@ There are two datasets used in this project, a Dog Image Dataset and a Human Ima
 ### Original Project Files
 
 If you want to do the original project from scratch, clone the repository and navigate to the downloaded folder.
+
 	```	
 		git clone https://github.com/udacity/deep-learning-v2-pytorch.git
 		cd deep-learning-v2-pytorch/project-dog-classification
