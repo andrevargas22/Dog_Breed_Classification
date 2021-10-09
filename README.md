@@ -23,7 +23,8 @@ There are two datasets used in this project, a Dog Image Dataset and a Human Ima
 
 ### Example Results
 
-https://github.com/andrevargas22/Dog_Breed_Classification/blob/main/img/dog_app_test.PNG
+![alt text](https://github.com/andrevargas22/Dog_Breed_Classification/blob/main/img/dog_app_test.PNG)
+
 
 ### Original Project Files
 
