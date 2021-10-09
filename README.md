@@ -19,7 +19,7 @@ There are two datasets used in this project, a Dog Image Dataset and a Human Ima
 * dog_app.ipynb - This is the notebook where the entire project was made and tested. It needs access to both datasets in order to work properly.
 * dog_app.pdf - The same notebook in pdf format.
 * Proposal.pdf - This is the original document send to Udacity with the proposal of the project.
-* Report.pdf - This is my final report, explaining the entire process from start to finish
+* Report.pdf - This is my final report, explaining the entire process from start to finish.
 
 ### Example Results
 
