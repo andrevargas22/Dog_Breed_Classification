@@ -23,7 +23,7 @@ There are two datasets used in this project, a Dog Image Dataset and a Human Ima
 
 ### Web App
 
-I made a small Web App that runs the generated model, the files can be found in the /Web App folder, at it is currently available at: http://andrevargas22.pythonanywhere.com/
+I made a small Web App that runs the generated model, the files can be found in the /Web App folder, and it is currently available at: http://andrevargas22.pythonanywhere.com/
 
 ### Example Results
 
