@@ -8,9 +8,9 @@ Welcome to my Udacity Machine Learning Engineer Nanodegree Capstone Project! Thi
 
 There are two datasets used in this project, a Dog Image Dataset and a Human Image Datasets. Both are available for download here:
 
-[Dog Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in the repo, at location "/dogImages".  The "/dogImages" folder should contain 133 folders, each corresponding to a different dog breed.
+[Dog Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in main folder with the jupyter notebook, at location "/dogImages".  The "/dogImages" folder should contain 133 folders, each corresponding to a different dog breed.
 
-[Human Dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz). Unzip the folder and place it in the repo, at location "/lfw". 
+[Human Dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz). Unzip the folder and place it in main folder with the jupyter notebook, at location "/lfw". 
 
 ### Table of Contents
 
