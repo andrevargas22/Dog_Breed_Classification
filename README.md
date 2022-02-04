@@ -14,7 +14,6 @@ There are two datasets used in this project, a Dog Image Dataset and a Human Ima
 
 ### Table of Contents
 
-* /Web App Folder - To finish this project, I made a small web application using Flask framework that asks for an input from the users and outputs the dog breed of that image. All files required for this Web App are inside this folder.
 * /haarcascades Folder - OpenCV provides many pre-trained face detectors, stored as XML files on github. In this folder is one of these detectors used in the project to find human faces in images.
 * dog_app.ipynb - This is the notebook where the entire project was made and tested. It needs access to both datasets in order to work properly.
 * dog_app.pdf - The same notebook in pdf format.
@@ -23,8 +22,7 @@ There are two datasets used in this project, a Dog Image Dataset and a Human Ima
 
 ### Web App
 
-I made a small Web App that runs the generated model, the files can be found in the /Web App folder, and it is currently available at: http://andrevargas22.pythonanywhere.com/
-
+I made a small Web App that runs the generated model and it is currently available at: http://andrevargas22.pythonanywhere.com/dog_breed_classifier
 ### Example Results
 
 ![alt text](https://github.com/andrevargas22/Dog_Breed_Classification/blob/main/img/dog_app_test.PNG)
