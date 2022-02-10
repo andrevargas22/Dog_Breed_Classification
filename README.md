@@ -33,7 +33,7 @@ I made a small Web App that runs the generated model and it is currently availab
 
 If you want to do the original project from scratch, clone the repository and navigate to the downloaded folder.
 
-	```	
-		git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-		cd deep-learning-v2-pytorch/project-dog-classification
-	```
+```
+	git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+	cd deep-learning-v2-pytorch/project-dog-classification
+```
