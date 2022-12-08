@@ -20,9 +20,6 @@ There are two datasets used in this project, a Dog Image Dataset and a Human Ima
 * Proposal.pdf - This is the original document send to Udacity with the proposal of the project.
 * Report.pdf - This is my final report, explaining the entire process from start to finish.
 
-### Web App
-
-I made a small Web App that runs the generated model and it is currently available at: http://andrevargas22.pythonanywhere.com/dog_breed_classifier
 ### Example Results
 
 ![alt text](https://github.com/andrevargas22/Dog_Breed_Classification/blob/main/img/dog_app_test.PNG)
